@@ -1,5 +1,5 @@
-# game will contain 5 levels
-# life of user will be one less than the attempts he can made 
+# game will contain 3 levels
+# life of user will be one less than the attempts he can made for level 1
 # good guess  = +10
 # wrong guess = -5
 
